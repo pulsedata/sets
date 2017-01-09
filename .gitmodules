@@ -1,0 +1,6 @@
+[submodule "socrates"]
+	path = socrates
+	url = https://github.com/pulsedata/socrates
+[submodule "matcher3"]
+	path = matcher3
+	url = https://github.com/pulsedata/matcher3
