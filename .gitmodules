@@ -4,3 +4,6 @@
 [submodule "matcher3"]
 	path = matcher3
 	url = https://github.com/pulsedata/matcher3
+[submodule "purifiers"]
+	path = purifiers
+	url = https://github.com/pulsedata/purifiers
